@@ -6,9 +6,9 @@
     "remote": "github"
   },
   {
-   "repository": "TheMuppets/proprietary_vendor_lge",
+   "repository": "PureNexus/proprietary_vendor_lge",
    "target_path": "vendor/lge",
-   "revision": "cm-13.0",
+   "revision": "mm",
    "remote": "github"
   }
 ]
