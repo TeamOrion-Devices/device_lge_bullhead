@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "akhilnarang/ThugLife",
+    "target_path": "kernel/lge/bullhead",
+    "revision": "bullhead",
+    "remote": "github"
+  },
+  {
+   "repository": "TheMuppets/proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "revision": "cm-13.0",
+   "remote": "github"
+  }
+]
