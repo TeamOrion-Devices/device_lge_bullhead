@@ -1,9 +1,9 @@
 [
   {
-    "repository": "bullhead",
+    "repository": "akhilnarang/ThugLife_bullhead",
     "target_path": "kernel/lge/bullhead",
     "branch": "master",
-    "remote": "ThugLife"
+    "remote": "github"
   },
   {
    "repository": "DonkeyCoyote/proprietary_vendor_lge",
