@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_bullhead.mk \
-    $(LOCAL_DIR)/tesla.mk
+    $(LOCAL_DIR)/orion.mk
