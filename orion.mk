@@ -21,4 +21,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=google/bullhead/bullhead:6.0.1/MTC20F/3031278:user/release-keys \
     PRIVATE_BUILD_DESC="bullhead-user 6.0.1 MTC20F 3031278 release-keys" \
     BUILD_ID=MTC20F
-
